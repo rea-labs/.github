@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/rea-labs/.github/main/profile/logo.jpg" alt="REA.lab logo" width="96">
-
 # REA.lab
 
 **Real-life audio and auditory research**
